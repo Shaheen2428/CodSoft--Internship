@@ -1,2 +1,2 @@
 # CodSoft-Internship
-Overview of the internship
+Project completed during Codsoft internship
