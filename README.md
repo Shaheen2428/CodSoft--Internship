@@ -1,2 +1,2 @@
-# CodSoft--Internship
+# CodSoft-Internship
 Overview of the internship
