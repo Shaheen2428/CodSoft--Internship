@@ -1,1 +1,26 @@
+# 🎬 Movie Rating Prediction - CodSoft Internship (Task 2)
+
+This project predicts movie ratings based on input features such as genre, director, and duration. It uses basic regression techniques to model the relationship between these features and the movie's final rating.
+
+## 🔧 Technologies Used
+- Python
+- Pandas, NumPy
+- Scikit-learn
+- Seaborn & Matplotlib
+
+## 📁 Files
+- `Movie_Rating_Prediction.ipynb` - 
+- `movie_dataset.csv` -
+
+## 📊 Steps Performed
+- Data Cleaning
+- Feature Selection
+- One-Hot Encoding for Categorical Data
+- Model Training using Linear Regression
+- Evaluation using MSE and R² Score
+
+---
+
+
+
 
