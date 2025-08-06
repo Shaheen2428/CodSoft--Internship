@@ -26,7 +26,7 @@ Welcome to my Data Science Internship projects done as part of the **CODSOFT Aug
 
 ---
 
-## 🙋 About Me
+##  About Me
 
 I’m **Shaheen**, a data enthusiast passionate about transforming raw data into impactful insights.  
 📫 [Connect with me on LinkedIn](https://www.linkedin.com/in/shaheen-bano-84b873349)
