@@ -9,7 +9,7 @@ Welcome to my Data Science Internship projects done as part of the **CODSOFT Aug
 | Task | Project                          | Link                                     | Status  |
 |------|----------------------------------|------------------------------------------|---------|
 | 1    | Titanic Survival Prediction      | [Go to Task 🔗]("https://github.com/Shaheen2428/CodSoft--Internship/tree/main/Task-1-Titanic-Survival")]| ✅ Completed |
-| 2    | Iris Flower Classification       | [Go to Task 🔗](./Task-02-Iris-Classification) | ✅ Completed |
+| 2    | Iris Flower Classification       | https://github.com/Shaheen2428/CodSoft--Internship/tree/main/Task-2-Movie-Rating%20-Prediction) | ✅ Completed |
 | 3    | Sales Forecasting Model          | [Go to Task 🔗](./Task-03-Sales-Prediction)     | ✅ Completed |
 
 ---
